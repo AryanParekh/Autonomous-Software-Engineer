@@ -84,6 +84,7 @@ Run the main script to start the agent:
 python main.py
 ```
 The agent will attempt to solve the [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) problem (LeetCode Hard). You can watch the progress in your terminal or by opening ```workspace/mission_report.md```.
+<img src="./assets/Animation.gif" width="100%" />
 
 ## 🛡️ Security Note
 This tool executes AI-generated code. While it uses **Docker** for isolation, always review the generated code in ```workspace/``` before using it in production environments.
